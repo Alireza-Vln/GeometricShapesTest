@@ -9,3 +9,15 @@ C:\Users\welldone\Desktop\Alireza\GuitarShop\GeometricShapes\GeometricShapes\obj
 C:\Users\welldone\Desktop\Alireza\GuitarShop\GeometricShapes\GeometricShapes\obj\Debug\net7.0\refint\GeometricShapes.dll
 C:\Users\welldone\Desktop\Alireza\GuitarShop\GeometricShapes\GeometricShapes\obj\Debug\net7.0\GeometricShapes.pdb
 C:\Users\welldone\Desktop\Alireza\GuitarShop\GeometricShapes\GeometricShapes\obj\Debug\net7.0\ref\GeometricShapes.dll
+C:\Users\amirv\OneDrive\Desktop\Alireza Code\alireza.code\Shape\GeometricShapesTest\GeometricShapes\bin\Debug\net7.0\GeometricShapes.deps.json
+C:\Users\amirv\OneDrive\Desktop\Alireza Code\alireza.code\Shape\GeometricShapesTest\GeometricShapes\bin\Debug\net7.0\GeometricShapes.dll
+C:\Users\amirv\OneDrive\Desktop\Alireza Code\alireza.code\Shape\GeometricShapesTest\GeometricShapes\bin\Debug\net7.0\GeometricShapes.pdb
+C:\Users\amirv\OneDrive\Desktop\Alireza Code\alireza.code\Shape\GeometricShapesTest\GeometricShapes\obj\Debug\net7.0\GeometricShapes.csproj.AssemblyReference.cache
+C:\Users\amirv\OneDrive\Desktop\Alireza Code\alireza.code\Shape\GeometricShapesTest\GeometricShapes\obj\Debug\net7.0\GeometricShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirv\OneDrive\Desktop\Alireza Code\alireza.code\Shape\GeometricShapesTest\GeometricShapes\obj\Debug\net7.0\GeometricShapes.AssemblyInfoInputs.cache
+C:\Users\amirv\OneDrive\Desktop\Alireza Code\alireza.code\Shape\GeometricShapesTest\GeometricShapes\obj\Debug\net7.0\GeometricShapes.AssemblyInfo.cs
+C:\Users\amirv\OneDrive\Desktop\Alireza Code\alireza.code\Shape\GeometricShapesTest\GeometricShapes\obj\Debug\net7.0\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\amirv\OneDrive\Desktop\Alireza Code\alireza.code\Shape\GeometricShapesTest\GeometricShapes\obj\Debug\net7.0\GeometricShapes.dll
+C:\Users\amirv\OneDrive\Desktop\Alireza Code\alireza.code\Shape\GeometricShapesTest\GeometricShapes\obj\Debug\net7.0\refint\GeometricShapes.dll
+C:\Users\amirv\OneDrive\Desktop\Alireza Code\alireza.code\Shape\GeometricShapesTest\GeometricShapes\obj\Debug\net7.0\GeometricShapes.pdb
+C:\Users\amirv\OneDrive\Desktop\Alireza Code\alireza.code\Shape\GeometricShapesTest\GeometricShapes\obj\Debug\net7.0\ref\GeometricShapes.dll
